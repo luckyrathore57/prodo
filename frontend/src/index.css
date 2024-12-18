@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --side-bar-color: #FCFAF8;
+  --icon-gray-light: #868483;
+  --add-task-red: #DC4C3E;
+  --hover-side-bar: #F2EFED;
+  --dark-red: #A81F00;
+}
